@@ -1,5 +1,5 @@
 
-import javaScript from '../../../public/javaScript.png'
+import javaScript from '/javaScript.png'
 import { Button } from '@mui/material';
 
 const About = () => {

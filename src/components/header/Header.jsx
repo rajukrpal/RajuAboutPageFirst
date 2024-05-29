@@ -37,8 +37,8 @@ console.log("Current Pathname:", location.pathname);
         <div>
         
           <h1 className="text-2xl font-semibold flex gap-3 items-center italic">
-            <img className="w-14 h-14 rounded-full" src="../../../public/raju1.jpg" alt="" />
-            {brandName} <span><img className="h-9" src="../../../public/blueTik.png" alt="" /></span>
+            <img className="w-14 h-14 rounded-full" src="/raju1.jpg" alt="" />
+            {brandName} <span><img className="h-9" src="/blueTik.png" alt="" /></span>
           </h1>
         </div>
         <div className="lg:space-x-10  flex lg:flex-row font-bold flex-col gap-3 lg:my-0 my-4 menu-links uppercase">

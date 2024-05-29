@@ -21,7 +21,7 @@ const AboutPage = () => {
         </center>
         <div className="lg:flex  gap-20">
           <div className="lg:w-[40%] flex justify-center items-center px-8">
-            <img className="" src="../../../public/raju.png" alt="" />
+            <img className="" src="/raju.png" alt="" />
           </div>
           <div className=" lg:w-[50%] flex justify-center items-center">
             <div className="p-5 flex ">

@@ -60,7 +60,7 @@ const Banner = () => {
           <div className="">
             <img
               className=" rounded-3xl shadow-orange-200 shadow-2xl "
-              src="../../../public/devloper1.gif"
+              src="/devloper1.gif"
               alt=""
             />
           </div>
