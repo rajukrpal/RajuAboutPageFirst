@@ -1,0 +1,53 @@
+.container{
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media screen {
+    
+}
+
+.title p{
+font-weight: 500;
+font-size: 22px;
+line-height: 1.5;
+color: #fd67;
+}
+
+.title h2 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 1.5;
+    text-transform: capitalize;
+    color: red;
+
+}
+
+.skill-page {
+    padding: 65px 0 100px;
+    background-color: rgb(90, 99, 76);
+    position: relative;
+}
+
+.skill-page .exprince-items{
+    margin-top: 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: center;
+    gap: 20px;
+}
+
+.exprince-item{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 48%;
+    flex: 0 0 48%;
+    max-width: 48%;
+}
